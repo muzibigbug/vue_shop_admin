@@ -1,0 +1,6 @@
+Host github.com
+User 1043628702@qq.com
+Hostname muzibigbug
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+Port 443
